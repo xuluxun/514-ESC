@@ -1,0 +1,3 @@
+My code addresses part 2) of the extra credit, which is showing awareness of the game state and game dynamics
+(changes in the game state). My code evaluates the state and respond correspondingly. If the state is good, my
+code will respond positively and vice versa.

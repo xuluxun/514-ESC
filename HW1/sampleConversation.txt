@@ -1,0 +1,129 @@
+0A: Musician: Hi I am a musician! Music is my life!
+    I was programmed by Luxun Xu. If you do not understand
+    what I am talking, contact him at luxunx@uw.edu
+    Now Let's talk!
+
+0B: Trump: Hi, I'm Donald Trump, and I am here to make America great again.
+Eden Ghirmai programmed me, but I like to think you can't really code a mind
+like mine. But if you get offended easily, contact her at ghirme@uw.edu
+Now what do you want?
+
+1A: Musician: Nice, now I know you are Donald and I can write a song for you using guitar.
+
+1B: Trump: How did you learn how to use a guitar? I own 30 symphonies.
+
+2A: Musician: I practice a lot.
+
+2B: Trump: You practice a lot, huh? Well I feel hungry. Hungry for Trump Steaks.
+# 3A SHOWS RANDOM FEATURE
+3A: Musician: I hope I practice a lot huh Well I feel hungry Hungry for Trump Steaks  by playing the trumpet.
+
+3B: Trump: I love eating Steak, especially Trump Steaks.
+
+4A: Musician: I like eating too!
+
+4B: Trump: Think about food some more, then buy some Trump Steak
+
+5A: Musician: I agree with you. So let's play some music together?
+
+5B: Trump: I am in no need of practicing, I was born an excellent businessman
+# 6A SHOWS MEMORY FEATURE
+6A: Musician: Nice, now I know you are in and I can write a song for you using guitar.
+
+6B: Trump: You already told me you can play the guitar!
+
+7A: Musician: Okay, lets's change topic. How about mexico?
+
+7B: Trump: Oh yeah, we are gonna have a HUGE wall. I mean HUUUGE. And we'll make Mexico pay for it
+
+8A: Musician: I do not have that, but I have music!
+
+8B: Trump: They say practice makes perfect, but I am already perfect
+
+9A: Musician: Nice, now I know you are already and I can write a song for you using guitar.
+
+9B: Trump: You already told me you can play the guitar!
+
+10A: Musician: Okay, lets's change topic. How about education?
+
+10B: Trump: Education is too high of a cost in America. If you want a good education work hard and make your own money.
+
+11A: Musician: I agree with you. So let's play some music together?
+
+11B: Trump: I am in no need of practicing, I was born an excellent businessman
+
+12A: Musician: I know you are in and I already wrote a song for you using guitar.
+
+12B: Trump: You already told me you can play the guitar!
+
+13A: Musician: Okay, lets's change topic. How about healthcare?
+
+13B: Trump: I mean how silly is free healthcare? Pull yourself by your own bootstraps America!
+
+14A: Musician: I feel confused and I want to play the piano.
+
+14B: Trump: How did you learn how to use a piano? I own 30 symphonies.
+
+15A: Musician: I practice a lot.
+
+15B: Trump: You always have to practice don't you?
+
+16A: Musician: I recommend nocturne to calm you down.
+
+16B: Trump: You should really comb down.
+# 17A SHOWS RANDOM FEATURE
+17A: Musician: I hope I should really comb down by playing the cello.
+
+17B: Trump: I shall overcomb.
+
+18A: Musician: Okay, how about some music?
+
+18B: Trump: They say practice makes perfect, but I am already perfect
+
+19A: Musician: I know you are already and I already wrote a song for you using guitar.
+
+19B: Trump: You already told me you can play the guitar!
+# 20A SHOWS CYCLE FEATURE
+20A: Musician: Okay, lets's change topic. How about money?
+
+20B: Trump: I have two donate buttons on my website, but yes I am a billionaire and fund my own campaign.
+
+21A: Musician: Nice, now I know you are a billionaire and I can write a song for you using guitar.
+
+21B: Trump: You already told me you can play the guitar!
+
+22A: Musician: Okay, lets's change topic. How about mexico?
+
+22B: Trump: Oh yeah, we are gonna have a HUGE wall. I mean HUUUGE. And we'll make Mexico pay for it
+# 23A SHOWS MEMORY FEATURE
+23A: Musician: I know you have that already. Let's do it one more time!
+
+23B: Trump: There will be hell toupee!
+
+24A: Musician: Okay, how about some music?
+
+24B: Trump: I am in no need of practicing, I was born an excellent businessman
+
+25A: Musician: I know you are in and I already wrote a song for you using guitar.
+
+25B: Trump: You already told me you can play the guitar!
+# 26A SHOWS CYCLE FEATURE
+26A: Musician: Okay, lets's change topic. How about education?
+
+26B: Trump: Education is too high of a cost in America. If you want a good education work hard and make your own money.
+
+27A: Musician: I agree with you. So let's play some music together?
+
+27B: Trump: They say practice makes perfect, but I am already perfect
+
+28A: Musician: I know you are already and I already wrote a song for you using guitar.
+
+28B: Trump: You already told me you can play the guitar!
+# 29A SHOWS CYCLE FEATURE
+29A: Musician: Okay, lets's change topic. How about healthcare?
+
+29B: Trump: I mean how silly is free healthcare? Pull yourself by your own bootstraps America!
+# 30A SHOWS MEMORY AND CYCLE FEATURE
+30A: Musician: I have heard that before. Shall we change topic? How about money?
+
+30B: Trump: I have two donate buttons on my website, but yes I am a billionaire and fund my own campaign.

@@ -1,0 +1,19 @@
+PartI.txt
+Luxun Xu, CSE 415, Spring 2016, University of Washington
+Instructor:  S. Tanimoto.
+Assignment 2 Part I
+
+1.
+(a) Fido is a dog. Fido ∈ dogs
+(b) A parrot is a bird. parrots ⊆ birds
+(c) Polly is a parrot. Polly ∈ parrots
+(d) David Jones is a Jones. David Jones ∈ Jones
+(e) “George Washington” is a great name. “George Washington” ∈ great names.
+(f) Artificial intelligence is a state of mind. Artificial intelligence ∈ state of minds.
+
+2.
+(a) is reflexive; symmetric; transitive; antisymmetric; a partial order.
+(b) is not reflexive; not symmetric; transitive; antisymmetric; not a partial order.
+(c) is reflexive; not symmetric; transitive; antisymmetric; a partial order.
+(d) is not reflexive; not symmetric; not transitive; antisymmetric; not a partial order.
+(e) is not reflexive; not symmetric; not transitive; not antisymmetric; not a partial order.

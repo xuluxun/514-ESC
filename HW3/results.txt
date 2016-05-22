@@ -1,0 +1,26 @@
+Luxun Xu
+CSE 415 HW 3 Part II
+
+Puzzle      Heuristics      Success?    States examined
+puzzle10a   h_euclidean     Yes         20
+puzzle12a   h_euclidean     Yes         71
+puzzle14a   h_euclidean     Yes         54
+puzzle16a   h_euclidean     Yes         285
+
+Puzzle      Heuristics      Success?    States examined
+puzzle10a   h_hamming       Yes         43
+puzzle12a   h_hamming       Yes         61
+puzzle14a   h_hamming       Yes         196
+puzzle16a   h_hamming       Yes         421
+
+Puzzle      Heuristics      Success?    States examined
+puzzle10a   h_manhattan     Yes         14
+puzzle12a   h_manhattan     Yes         63
+puzzle14a   h_manhattan     Yes         50
+puzzle16a   h_manhattan     Yes         209
+
+Puzzle      Heuristics      Success?    States examined
+puzzle10a   h_custom        Yes         22
+puzzle12a   h_custom        Yes         35
+puzzle14a   h_custom        Yes         48
+puzzle16a   h_custom        Yes         138

@@ -1,0 +1,44 @@
+''' report.txt
+Luxun Xu & Eden Ghirmai 
+CSE415 Spr16 - 4/29/2015
+Assignment 4: Problem Formulation
+'''
+
+PUZZLE1 =    '..4....575..1.8.3.....6....37.6...9..8.973.4..9...1.23....1.....2.7.5..195....3..'
+PUZZLE2 =    '008200006004005070007000850120708000090006000000104029052000100080500900700006200'
+PUZZLE3 =    '001086000000002508398000000003021000072000390000930600000000437405800000000260100'
+
+					[STATES]
+       | ItrDFS | ItrBFS | A* heuristic1 | A* heuristic2
+--------------------------------------------------------
+PUZZLE1|  Many	|  Many	 |		1		 |     249
+--------------------------------------------------------
+PUZZLE2|  Many	|  Many	 |	   Many		 |     Many
+--------------------------------------------------------
+PUZZLE3|  Many	|  Many	 |		1		 |     300
+
+
+Retrospective:
+A.) What each team member contributed to the partnership's work:
+
+We both worked on solutions individually at first just to get an idea of what we needed to be doing for the assignment.
+We had a good skeleton and partially working solutions and then we met up to discuss which would be more efficient and how to write our heuristics together.
+After that we discussed heuristics and talked through ideas and tested them together and came up with different examples to try them out on before deciding on the heuristics we wanted to use.
+
+
+B.) In each team member's own words, what he or she learned by doing this assignment.
+
+Eden:
+
+I learned a lot more about state and operations because usually when I've worked on problems like this,
+all the work is done in one class that contains all the logic of solving the problem.
+It was interesting being able to use different states and operands in order to use whatever algorithm chosen with the QUIET methods.
+
+
+Luxun:
+
+I did many researches about solving sudoku for this assignment and this code is inspired by some of the researches I have
+done. However, due to the limitation that we have to fit our code into the framework (in order to use DFS, BFS and AStar),
+as a result, the algorithm is still not very efficient. Wierdly, some only runs through 1 state. I could optimize this algorithm
+if I could choose which blank sqaure to deal with first. However, this is a very interesting assignment and I would
+like to tackle more puzzles that I have not done in this assignment.

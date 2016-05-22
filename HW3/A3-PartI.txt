@@ -1,0 +1,31 @@
+Luxun Xu
+CSE 415 HW 3 Part I
+
+1)
+
+By the method of listing all possible states, there are 174 distinct states possible in a game of Tic-Tac-Toe
+after 5 moves have been made.
+
+2)
+
+Choose 6 voxels from 27 = 27C6 = 296010
+
+There are:
+8 corners
+6 mids
+12 sides
+1 center
+
+Total combination = 296010 / (8 * 6 * 12) * (6! * 8) = 2960100
+
+3)
+
+Total number of patterns with repetition = 2^(n^2)
+
+Total number of 4_way rotational symmetry = 2*(n^2)/4
+
+Total number of 2-way rotational symmetry but not 4-way rotational symmetry = 2*((n^2)/2 - (n^2)/4)
+
+Total number of rest pattern = 2*((n^2)/4)*4 = 2^(n^2) - 2*(n^2)/4 - (2*((n^2)/2 - (n^2)/4))
+
+Total number of patterns without repetition = 2^(n^2) - (1/2)*(2*((n^2)/2 - (n^2)/4)) - (3/4)*(2^(n^2) - 2*(n^2)/4 - (2*((n^2)/2 - (n^2)/4)))
